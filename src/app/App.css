@@ -11,15 +11,15 @@ html {
 h1 {
   margin: auto;
   padding: .77rem 0;
-  background-color: #010c3f;
+  background-color: #a1739e;
   text-align: center;
   font-family: 'Poppins', sans-serif;
-  font-size: 1.88rem;
+  font-size: 3rem;
   color: #fff;
 }
 
 h1 .highlight {
-  color: #6c41ec;
+  color: #c8b6b6;
 }
 
 h2 {
@@ -30,7 +30,7 @@ h2 {
 .App {
   height: 100%;
   padding: 0 17% 10% 17%;
-  background-image: url('./background_photo_desktop.jpeg');
+  background-image: url('./background_photo_desktop.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
